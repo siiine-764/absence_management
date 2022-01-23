@@ -1,0 +1,168 @@
+C:\Users\Death Note\source\repos\Absent\Absent\bin\Debug\Absent.exe.config
+C:\Users\Death Note\source\repos\Absent\Absent\bin\Debug\Absent.exe
+C:\Users\Death Note\source\repos\Absent\Absent\bin\Debug\Absent.pdb
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.csprojAssemblyReference.cache
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.Form1.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.Properties.Resources.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.csproj.GenerateResource.cache
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.csproj.CoreCompileInputs.cache
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.exe
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.pdb
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.frmLogin.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.LoginQr.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.Professeur.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.Derécteur.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.NewClasse.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.NewMatiere.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.NewSéance.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.NewProf.resources
+C:\Users\Death Note\source\repos\Absent\Absent\obj\Debug\Absent.NewStag.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\Absent.exe.config
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\Absent.exe
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\Absent.pdb
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csprojAssemblyReference.cache
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.Derécteur.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.Form1.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmLogin.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.LoginQr.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewClasse.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewMatiere.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewSéance.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewProf.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewStag.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.Professeur.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.Properties.Resources.resources
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csproj.GenerateResource.cache
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csproj.CoreCompileInputs.cache
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.exe
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.pdb
+C:\Users\Death Note\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewLogin.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\Absent.exe.config
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\Absent.exe
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\Absent.pdb
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csprojAssemblyReference.cache
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.Derécteur.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.Form1.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmLogin.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.LoginQr.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewClasse.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewLogin.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewMatiere.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewSéance.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewProf.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.NewStag.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.Professeur.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.Properties.Resources.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csproj.GenerateResource.cache
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csproj.CoreCompileInputs.cache
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.exe
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.pdb
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\QRCoder.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\Zen.Barcode.Core.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csproj.CopyComplete
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.Video.DirectShow.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.Video.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\zxing.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\zxing.presentation.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.xml
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.Video.xml
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.Video.DirectShow.xml
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\zxing.xml
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Proget (Désign)\Absent\Absent\bin\Debug\zxing.presentation.xml
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\Absent.exe.config
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\Absent.exe
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\Absent.pdb
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.dll
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.Video.dll
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\QRCoder.dll
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\zxing.dll
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\zxing.presentation.dll
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.xml
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.Video.xml
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\zxing.xml
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\bin\Debug\zxing.presentation.xml
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csprojAssemblyReference.cache
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmLogin.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.Properties.Resources.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csproj.GenerateResource.cache
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csproj.CoreCompileInputs.cache
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.csproj.CopyComplete
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.exe
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.pdb
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmNewQR.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmNewClasse.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmDérecteur.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmNewLogin.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmNewMatiere.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmNewSéance.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmNewProf.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmNewStag.resources
+C:\Users\abdenour\Desktop\Mini Proget (Désign)\Absent\Absent\obj\Debug\Absent.frmProfesseur.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\Absent.exe.config
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\Absent.exe
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\Absent.pdb
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\AForge.dll
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\AForge.Video.dll
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\QRCoder.dll
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\zxing.dll
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\zxing.presentation.dll
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\AForge.xml
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\AForge.Video.xml
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\zxing.xml
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\bin\Debug\zxing.presentation.xml
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.csprojAssemblyReference.cache
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmLogin.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewQR.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewClasse.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewLogin.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewMatiere.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewProf.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewStag.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmProfesseur.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.Properties.Resources.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.csproj.GenerateResource.cache
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.csproj.CoreCompileInputs.cache
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.csproj.CopyComplete
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.exe
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.pdb
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewSeance.resources
+C:\Users\abdenour\Desktop\Mini Projet\Absent\Absent\obj\Debug\Absent.frmMenu.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\Absent.exe.config
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\Absent.exe
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\Absent.pdb
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\AForge.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\AForge.Video.DirectShow.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\AForge.Video.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\QRCoder.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\Zen.Barcode.Core.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\zxing.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\zxing.presentation.dll
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\AForge.xml
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\AForge.Video.xml
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\AForge.Video.DirectShow.xml
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\zxing.xml
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\bin\Debug\zxing.presentation.xml
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.csprojAssemblyReference.cache
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmLogin.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmMenu.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewQR.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewClasse.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewLogin.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewMatiere.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewSeance.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewProf.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmNewStag.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.frmProfesseur.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.Properties.Resources.resources
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.csproj.GenerateResource.cache
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.csproj.CoreCompileInputs.cache
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.csproj.CopyComplete
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.exe
+D:\les file\M-P-L-C-P\ISMO mudel\Dev Client Serveur\Mini Projet\Absent\Absent\obj\Debug\Absent.pdb
